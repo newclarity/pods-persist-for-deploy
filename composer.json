@@ -1,0 +1,6 @@
+{
+  "name"       : "newclarity/pods-persist-for-deploy",
+  "description": "Persistence for Pods deployment",
+  "type"       : "wordpress-plugin",
+  "license"    : "GPL-2.0+"
+}
